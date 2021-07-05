@@ -1,0 +1,2 @@
+# OpenIMAJ
+OpenIMAJ exercises
